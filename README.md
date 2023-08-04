@@ -1,2 +1,0 @@
-# Automacoes
- Automação pdf
